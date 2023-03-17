@@ -3,6 +3,9 @@ Renewable energy is energy that is derived from natural resources that are reple
 
 Renewable energy is considered to be a sustainable and environmentally friendly alternative to non-renewable sources of energy such as fossil fuels, which are finite and have a negative impact on the environment. Some examples of renewable energy technologies include solar photovoltaic (PV) systems, wind turbines, hydroelectric power plants, and geothermal energy systems.
 
+![image](https://user-images.githubusercontent.com/122364815/225886962-22253e2a-9265-4db1-ba05-7204b5f0080b.png)
+
+
 There are several types of renewable energy sources available, and some of the most popular and widely used examples include:
 
 •	Solar energy: This is obtained from the sun's rays and can be used to generate electricity using solar panels or to heat water using solar thermal systems.
